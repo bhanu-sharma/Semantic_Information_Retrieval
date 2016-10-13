@@ -10,7 +10,7 @@ The rules of using the said program. Please use this structure only.
 >> Yes
 
 
-#debug 
+--debug 
 run this command to see the adding and searching of the relationships
 
 >>? debug
@@ -23,7 +23,7 @@ run this command to see the adding and searching of the relationships
     path -  mango  to  fruit
 >>  Yes e*ms* ['ms']
 
-#dump
+--dump
 shows the relationships
 >>? dump
   mango      : s : fruit
